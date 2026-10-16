@@ -1,0 +1,6 @@
+{
+  "name": "Stock Market Mastery Program",
+  "description": "Lead generation landing page for the Stock Market Mastery Program featuring curriculum breakdown, interactive market analysis preview, and lead capture booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
